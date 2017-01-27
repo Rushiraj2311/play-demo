@@ -15,6 +15,6 @@ libraryDependencies ++= Seq(
 enablePlugins(DebianPlugin)
 maintainer := "Rushikumar Rathod <rushiraj.rathod@gmail.com>"
 packageSummary := "My Custom Package"
-pacakgeDescription := "Package"
+packageDescription := "Package"
 
 
